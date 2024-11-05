@@ -1,4 +1,4 @@
-# Proyecto de Especialización en Java - Alura
+# Proyectos - Alura
 
 ## Descripción General
 
